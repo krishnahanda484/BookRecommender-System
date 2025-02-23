@@ -13,6 +13,7 @@ Finally, the project was deployed locally using Flask. When the application runs
 
 This project provides a basic but effective way to recommend books. It helps users discover books that are similar to the ones they already like, making it useful for book lovers.
 
+DATASET LINK - https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset
 
 
 
